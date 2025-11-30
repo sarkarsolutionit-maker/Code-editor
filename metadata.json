@@ -1,0 +1,5 @@
+{
+  "name": "Local HTML Swag Editor",
+  "description": "A fully offline, mobile-friendly raw HTML source code editor with syntax highlighting, find/replace, and file management.",
+  "requestFramePermissions": []
+}
